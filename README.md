@@ -30,4 +30,4 @@ Youtube Video Link - [Click here](https://youtu.be/bf7S12CUTs0)
 
 Dataset Link - [Drive Link](https://drive.google.com/drive/folders/19KWRXWwwbXSa9_EfuvUj-HMqpQDzAijU?usp=sharing) [Original Dataset Location](http://insideairbnb.com/get-the-data.html)
 
-PDF of the notebook- (CLick to view PDF)[https://drive.google.com/file/d/1gQSgK9pyynB_pUI5zOzLxfmMSt8VR9Sx/view?usp=sharing]
+PDF of the notebook- [CLick to view PDF](https://drive.google.com/file/d/1gQSgK9pyynB_pUI5zOzLxfmMSt8VR9Sx/view?usp=sharing)
