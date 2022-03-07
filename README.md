@@ -25,7 +25,7 @@ The data has been taken from 4 files as listed below. The datasets have been tak
 
 Presentation Link - [Click here](https://www.canva.com/design/DAEyhe5zQ7I/etNnXj64M5pnvnm7kKdwhQ/view?utm_content=DAEyhe5zQ7I&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-Youtube Video Link - [Click here](https://youtu.be/bf7S12CUTs0)
+Youtube Video Link - [Click here]
 
 
 Dataset Link - [Drive Link](https://drive.google.com/drive/folders/19KWRXWwwbXSa9_EfuvUj-HMqpQDzAijU?usp=sharing) [Original Dataset Location](http://insideairbnb.com/get-the-data.html)
